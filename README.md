@@ -25,7 +25,21 @@
 ## 💼 Projects
 - 🎬 **Movie Booking System** – Full stack project using Python & MySQL.
 - 🌍 **Portfolio Website** – Personal site built with React and deployed via GitHub Pages.
+# Movie Booking System 🎥
 
+A web-based app to book movie tickets using Django and MySQL.
+
+## Features:
+- User authentication
+- Movie listings and booking
+- Admin panel
+
+## Tech Stack:
+- Backend: Django
+- Frontend: HTML, CSS, JavaScript
+- Database: MySQL
+
+## Run Locally:
 ---
 
 ## 📫 Contact Me
