@@ -6,21 +6,6 @@
 - 💬 Ask me about **Django, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **adityasharma9113918@gmail.com**
-- # 🐍 Snake Game in Python
-
-A simple snake game built using Python and Pygame.
-
-## 🎮 How to Play
-
-- Use arrow keys to control the snake.
-- Eat the green square (food) to grow.
-- Avoid hitting walls or yourself!
-
-## ▶️ Run the Game
-
-```bash
-pip install pygame
-python snake_game.py
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
